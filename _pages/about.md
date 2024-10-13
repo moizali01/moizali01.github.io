@@ -17,7 +17,7 @@ I am also interested in research related to security and robustness of Large Lan
 
 Research Projects
 ======
-My primary research project, co-advised by Dr.Ashish Gehani (SRI International) and Prof. Sazzadur Rahaman (University of Arizona), focuses on developing an AI-assisted program analysis tool for improving existing source code debloating techniques, which currently struggle to grasp the semantic meaning of program code.
+My primary research project, co-advised by Dr. Ashish Gehani (SRI International) and Prof. Sazzadur Rahaman (University of Arizona), focuses on developing an AI-assisted program analysis tool for improving existing source code debloating techniques, which currently struggle to grasp the semantic meaning of program code.
 
 I have also worked on understanding the safety and robustness of Large Language Models (LLMs) across various downstream tasks. The work is currently under review at COLING'25. The preprint for the work is available [here](https://arxiv.org/pdf/2409.15361).
 

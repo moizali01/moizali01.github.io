@@ -1,10 +1,10 @@
 ---
 title: "Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuning"
 collection: publications
-category: manuscripts
+category: # manuscripts
 permalink: /publication/multi-task-mayhem-llm-safety-gaps
 excerpt: "Currently under review at COLING'25"
-date:  2024-09-18
+date:  # 2024-09-18
 venue: # 'Journal 1'
 slidesurl: # ''
 paperurl: 'https://arxiv.org/pdf/2409.15361'
