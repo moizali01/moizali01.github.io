@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/multi-task-mayhem-llm-safety-gaps
 excerpt: "Currently under review at COLING'25. This paper explores the task-wise safety degradation due to fine-tuning on downstream tasks such as summarization, code generation, translation, and classification across various calibration."
-date:  # 2024-09-18
+date:  2024-09-18
 venue: # 'Journal 1'
 slidesurl: # ''
 paperurl: 'https://arxiv.org/pdf/2409.15361'
