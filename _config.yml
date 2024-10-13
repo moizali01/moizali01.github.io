@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Syed Moiz Ali"
   pronouns         : # example: "she/her"  
-  bio              : "AI-driven Security Solutions, LLM Robustness, Privacy, and Security"
+  bio              : "LLM Robustness, Privacy, and Security, AI-driven Security Solutions"
   location         : "Lahore, Pakistan"
-  employer         : "Lahore University of Management Sciences"
+  employer         : "LUMS"
   uri              : # URL
   email            : "syedmoizali07@gmail.com" 
 
@@ -80,7 +80,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Research Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
