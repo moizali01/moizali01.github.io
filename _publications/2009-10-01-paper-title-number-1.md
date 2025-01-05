@@ -3,9 +3,9 @@ title: "Multitask Mayhem: Unveiling and Mitigating Safety Gaps in LLMs Fine-tuni
 collection: publications
 category: conferences
 permalink: /publication/multi-task-mayhem-llm-safety-gaps
-excerpt: "Currently under review at COLING'25. This paper explores the task-wise safety degradation due to fine-tuning on downstream tasks such as summarization, code generation, translation, and classification across various calibration."
+excerpt: "Accepted at COLING 2025. This paper explores the task-wise safety degradation due to fine-tuning on downstream tasks such as summarization, code generation, translation, and classification across various calibration."
 date:  2024-09-18
-venue: # 'Journal 1'
+venue: COLING 2025
 slidesurl: # ''
 paperurl: 'https://arxiv.org/pdf/2409.15361'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'

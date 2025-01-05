@@ -11,15 +11,15 @@ I am a final year undergraduate Computer Science student at Lahore University of
 
 My research interests are at the intersection of Security, Privacy, and Machine Learning.
 
-For my senior year project, I am working on an AI-assisted approach for the enhancement of existing source code debloating techniques.
+I am currently working on auditing source-code debloaters and creating a generalizable pipeline to enhance existing source code debloating techniques.
 
-I am also interested in research related to security and robustness of Large Language Models.
+I am also interested in research related to security and robustness of Large Language Models. My recent work on LLM security has been accepted at [COLING 2025](https://arxiv.org/pdf/2409.15361).
 
 Research Projects
 ======
 My primary research project, co-advised by Dr. Ashish Gehani (SRI International) and Prof. Sazzadur Rahaman (University of Arizona), focuses on developing an AI-assisted program analysis tool for improving existing source code debloating techniques, which currently struggle to grasp the semantic meaning of program code.
 
-I have also worked on understanding the safety and robustness of Large Language Models (LLMs) across various downstream tasks. The work is currently under review at COLING'25. The preprint for the work is available [here](https://arxiv.org/pdf/2409.15361).
+I have also worked on understanding the safety and robustness of Large Language Models (LLMs) across various downstream tasks. The paper has been accepted at COLING 2025. The preprint for the work is available [here](https://arxiv.org/pdf/2409.15361).
 
 Experience
 ======
