@@ -7,31 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-<a id="about"></a>
-About
-======
+## About
 
 I am a final-year BS Computer Science student at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
 
 During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422).
 
 
-<a id="publications"></a>
-Publications  
-======
+## Publications  
+
 1. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
 by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
 In Proceedings of the 30th International Conference on Computational Linguistics (**COLING 2025**)  
 [**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
 
-<a id="experience"></a>
-Experience
-======
+
+## Experience
+
 Currently, I am working as a Research Assistant at the **Security & Privacy Lab** at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software security, and evaluating the security and robustness of Large Language Models.
 
-<a id="teaching"></a>
-Teaching
-======
+## Teaching
 
 1. CS100: Computational Problem Solving, Spring 2025 - Head Teaching Assistant (LUMS)
 2. CS437: Computer Vision Fundamentals, Fall 2024 - Teaching Assistant (LUMS)
