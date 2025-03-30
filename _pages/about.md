@@ -1,32 +1,42 @@
 ---
 permalink: /
-title: "Hello, I am Moiz!"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a final year undergraduate Computer Science student at Lahore University of Management Sciences.
-
-My research interests are at the intersection of Security, Privacy, and Machine Learning.
-
-I am currently working on auditing source-code debloaters and creating a generalizable pipeline to enhance existing source code debloating techniques.
-
-I am also interested in research related to security and robustness of Large Language Models. My recent work on LLM security has been accepted at [COLING 2025](https://arxiv.org/pdf/2409.15361).
-
-Research Projects
+<a id="about"></a>
+About
 ======
-My primary research project, co-advised by Dr. Ashish Gehani (SRI International) and Prof. Sazzadur Rahaman (University of Arizona), focuses on developing an AI-assisted program analysis tool for improving existing source code debloating techniques, which currently struggle to grasp the semantic meaning of program code.
 
-I have also worked on understanding the safety and robustness of Large Language Models (LLMs) across various downstream tasks. The paper has been accepted at COLING 2025. The preprint for the work is available [here](https://arxiv.org/pdf/2409.15361).
+I am a final-year BS Computer Science student at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
 
+During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422).
+
+
+<a id="publications"></a>
+Publications  
+======
+1. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
+by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
+In Proceedings of the 30th International Conference on Computational Linguistics (**COLING 2025**)  
+[**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
+
+<a id="experience"></a>
 Experience
 ======
-Currently, I am working as a Student Researcher at the **Security & Privacy Lab** at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software security, and evaluating the security and robustness of Large Language Models.
+Currently, I am working as a Research Assistant at the **Security & Privacy Lab** at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software security, and evaluating the security and robustness of Large Language Models.
 
-Moreover, I am also currently working as a Teaching Assistant (TA) for the **Computer Vision Fundamentals** course at LUMS, under the supervision of Prof. Murtaza Taj.
+<a id="teaching"></a>
+Teaching
+======
 
+1. CS100: Computational Problem Solving, Spring 2025 - Head Teaching Assistant (LUMS)
+2. CS437: Computer Vision Fundamentals, Fall 2024 - Teaching Assistant (LUMS)
+3. CS100: Computational Problem Solving, Spring 2024 - Teaching Assistant (LUMS)
+4. CS200: Introduction to Programming, Fall 2023 - Teaching Assistant (LUMS)
 
 <!-- For more info
 ------
