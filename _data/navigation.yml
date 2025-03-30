@@ -6,25 +6,20 @@
 
 main:
   - title: "CV"
-    # url: /cv/
     url: /files/moiz_resume.pdf
 
   - title: "About"
     url: /#about/
 
-  # - title: "Talks"
-  #   url: /talks/    
-
   - title: "Publications"
     url: /#publications/ 
 
   - title: "Experience"
-    url: /#Experience/
+    url: /#experience/
 
   - title: "Teaching"
-    url: /#teaching/    
-    
-        
+    url: /#teaching/
+ 
   # - title: "Blog Posts"
   #   url: /year-archive/
     
