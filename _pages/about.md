@@ -24,7 +24,7 @@ In Proceedings of the 30th International Conference on Computational Linguistics
 
 ## Experience
 
-Currently, I am working as a Research Assistant at the **Security & Privacy Lab** at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software security, and evaluating the security and robustness of Large Language Models.
+Currently, I am working as a Research Assistant at the **Technology for People Initiative (TPI) Lab* at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software repair, and evaluating the security and robustness of Large Language Models.
 
 ## Teaching
 
