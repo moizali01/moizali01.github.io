@@ -21,6 +21,10 @@ by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Za
 In Proceedings of the 30th International Conference on Computational Linguistics (**COLING 2025**)  
 [**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
 
+2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
+by Essa Jan, **Moiz Ali**, Saram Hassan, Fareed Zaffar, Yasir Zaki  
+Preprint, 2025  
+[**arXiv**](https://arxiv.org/pdf/2505.17140)
 
 ## Experience
 
