@@ -11,7 +11,7 @@ redirect_from:
 
 I am a final-year BS Computer Science student at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
 
-During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422). I will be joning the [University of Illinois Chicago (UIC)](https://www.uic.edu/) for PhD CS in Fall'25.
+During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422). I will be joining the [University of Illinois Chicago (UIC)](https://www.uic.edu/) for PhD CS in Fall'25.
 
 
 ## Publications  
