@@ -9,10 +9,9 @@ redirect_from:
 
 ## About
 
-I am a final-year BS Computer Science student at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
+I am a first-year Ph.D. Computer Science student at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I completed my undergrad in Computer Science at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
 
-During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422). I will be joining the [University of Illinois Chicago (UIC)](https://www.uic.edu/) for PhD CS in Fall'25.
-
+During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422). 
 
 ## Publications  
 
@@ -23,7 +22,7 @@ In Proceedings of the 30th International Conference on Computational Linguistics
 
 2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
 by Essa Jan, **Moiz Ali**, Saram Hassan, Fareed Zaffar, Yasir Zaki  
-Preprint, 2025  
+EMNLP Findings, 2025  
 [**arXiv**](https://arxiv.org/pdf/2505.17140)
 
 ## Experience
@@ -32,10 +31,11 @@ Currently, I am working as a Research Assistant at the **Technology for People I
 
 ## Teaching
 
-1. CS100: Computational Problem Solving, Spring 2025 - Head Teaching Assistant (LUMS)
-2. CS437: Computer Vision Fundamentals, Fall 2024 - Teaching Assistant (LUMS)
-3. CS100: Computational Problem Solving, Spring 2024 - Teaching Assistant (LUMS)
-4. CS200: Introduction to Programming, Fall 2023 - Teaching Assistant (LUMS)
+1. CS107: Introduction to Computing and Programming, Fall 2025 - Graduate Teaching Assistant (UIC)
+2. CS100: Computational Problem Solving, Spring 2025 - Head Teaching Assistant (LUMS)
+3. CS437: Computer Vision Fundamentals, Fall 2024 - Teaching Assistant (LUMS)
+4. CS100: Computational Problem Solving, Spring 2024 - Teaching Assistant (LUMS)
+5. CS200: Introduction to Programming, Fall 2023 - Teaching Assistant (LUMS)
 
 <!-- For more info
 ------
