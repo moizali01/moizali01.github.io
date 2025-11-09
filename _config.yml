@@ -21,10 +21,10 @@ repository               : "moizali01/moizali01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Syed Moiz Ali"
   pronouns         : # example: "she/her"  
-  bio              : "First-Year Ph.D. CS Student at UIC"
+  bio              : "CS Ph.D. Student at UIC"
   location         : "Chicago, Illinois"
   employer         : "UIC"
   uri              : # URL

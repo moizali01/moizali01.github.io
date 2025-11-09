@@ -23,19 +23,26 @@ In Proceedings of the 30th International Conference on Computational Linguistics
 2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
 by Essa Jan, **Moiz Ali**, Saram Hassan, Fareed Zaffar, Yasir Zaki  
 EMNLP Findings, 2025  
-[**arXiv**](https://arxiv.org/pdf/2505.17140)
+[**Paper**](https://aclanthology.org/2025.findings-emnlp.589/)
 
-## Experience
+<!-- ## Experience
 
-Currently, I am working as a Research Assistant at the **Technology for People Initiative (TPI)** Lab at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software repair, and evaluating the security and robustness of Large Language Models.
+Currently, I am working as a Research Assistant at the **Technology for People Initiative (TPI)** Lab at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software repair, and evaluating the security and robustness of Large Language Models. -->
 
-## Teaching
+## News
+
+- **Aug 2025** — Started my Ph.D. in Computer Science at the University of Illinois Chicago (UIC).
+- **Aug 2025** — Our paper [*Data Doping or True Intelligence?*](https://aclanthology.org/2025.findings-emnlp.589/) accepted at **EMNLP Findings 2025**.
+- **Mar 2025** — Completed undergraduate degree in Computer Science at **LUMS**.
+- **Dec 2024** Our paper [MultiTaskBench](https://aclanthology.org/2025.coling-main.606.pdf) was accepted at COLING 25, focusing on safety gaps in LLM fine-tuning.
+
+<!-- ## Teaching
 
 1. CS107: Introduction to Computing and Programming, Fall 2025 - Graduate Teaching Assistant (UIC)
 2. CS100: Computational Problem Solving, Spring 2025 - Head Teaching Assistant (LUMS)
 3. CS437: Computer Vision Fundamentals, Fall 2024 - Teaching Assistant (LUMS)
 4. CS100: Computational Problem Solving, Spring 2024 - Teaching Assistant (LUMS)
-5. CS200: Introduction to Programming, Fall 2023 - Teaching Assistant (LUMS)
+5. CS200: Introduction to Programming, Fall 2023 - Teaching Assistant (LUMS) -->
 
 <!-- For more info
 ------
