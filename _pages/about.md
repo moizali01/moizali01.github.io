@@ -29,12 +29,26 @@ EMNLP Findings, 2025
 
 Currently, I am working as a Research Assistant at the **Technology for People Initiative (TPI)** Lab at LUMS, under the supervision of Prof. Fareed Zaffar, focusing on program analysis for software repair, and evaluating the security and robustness of Large Language Models. -->
 
-## News
+<!-- ## News
 
 - **Aug 2025** — Started my Ph.D. in Computer Science at the University of Illinois Chicago (UIC).
-- **Aug 2025** — Our paper [*Data Doping or True Intelligence?*](https://aclanthology.org/2025.findings-emnlp.589/) accepted at **EMNLP Findings 2025**.
+- **Aug 2025** — erOur pap [*Data Doping or True Intelligence?*](https://aclanthology.org/2025.findings-emnlp.589/) accepted at **EMNLP Findings 2025**.
 - **Mar 2025** — Completed undergraduate degree in Computer Science at **LUMS**.
-- **Dec 2024** Our paper [MultiTaskBench](https://aclanthology.org/2025.coling-main.606.pdf) was accepted at COLING 25, focusing on safety gaps in LLM fine-tuning.
+- **Dec 2024** Our paper [MultiTaskBench](https://aclanthology.org/2025.coling-main.606.pdf) was accepted at COLING 25, focusing on safety gaps in LLM fine-tuning. -->
+
+
+## News
+
+<div style="background-color:#f9f9f9; border-left:4px solid #4b9cd3; padding:10px 15px; border-radius:6px;">
+
+<strong>Aug 2025—</strong> Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.<br><br>
+<strong>Aug 2025 —</strong> Our paper <i>Data Doping or True Intelligence</i> accepted at <strong>EMNLP Findings 2025</strong>.<br><br>
+<strong>May 2025 —</strong> Completed undergraduate degree in Computer Science at <strong>LUMS</strong>.<br><br>
+<strong>Dec 2024 —</strong> Our paper <i>MultiTaskBench</i> accepted at <strong>COLING 2025</strong>.<br><br>
+
+
+</div>
+
 
 <!-- ## Teaching
 
