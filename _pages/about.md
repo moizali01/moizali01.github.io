@@ -9,9 +9,11 @@ redirect_from:
 
 ## About
 
-I am a first-year Ph.D. Computer Science student at [University of Illinois Chicago (UIC)](https://www.uic.edu/). I completed my undergrad in Computer Science at [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/). My research interests include program analysis tools, auditing LLM-generated code, and enhancing software security through debloating and ML-based techniques. I also explore the robustness of machine learning models and the design of security guardrails. 
+I am a first-year Ph.D. Computer Science student at [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by [Jason Polakis](https://www.cs.uic.edu/~polakis/).
 
-During my undergrad, I have had the good fortune of being advised by [Dr. Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Dr. Sazzadur Rahaman](https://sazzadur.com/), [Dr. Yasir Zaki](https://yasirzaki.net/), and [Dr. Fareed Zaffar](https://lums.edu.pk/lums_employee/422). 
+I completed my undergrad in Computer Science at **LUMS**, where I had the good fortune of being advised by [Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Sazzadur Rahaman](https://sazzadur.com/), [Yasir Zaki](https://yasirzaki.net/), and [Fareed Zaffar](https://lums.edu.pk/lums_employee/422). My undergraduate research focused on the alignment of large language models (LLMs) for security and on auditing and improving program analysis techniques.
+
+I am broadly interested in the use of LLMs, particularly agentic browsing agents on the internet. My current research focuses on auditing these agents for security, focusing on fingerprinting and privacy risks. Through this work, I aim to help developers and researchers identify security and privacy risks and build more robust systems.
 
 ## Publications  
 
@@ -42,9 +44,9 @@ Currently, I am working as a Research Assistant at the **Technology for People I
 <div style="background-color:#f9f9f9; border-left:4px solid #4b9cd3; padding:10px 15px; border-radius:6px;">
 
 <strong>Aug 2025—</strong> Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.<br><br>
-<strong>Aug 2025 —</strong> Our paper <i>Data Doping or True Intelligence</i> accepted at <strong>EMNLP Findings 2025</strong>.<br><br>
+<strong>Aug 2025 —</strong> Our paper <a href="https://aclanthology.org/2025.findings-emnlp.589/">Data Doping or True Intelligence</a> accepted at <strong>EMNLP Findings 2025</strong>.<br><br>
 <strong>May 2025 —</strong> Completed undergraduate degree in Computer Science at <strong>LUMS</strong>.<br><br>
-<strong>Dec 2024 —</strong> Our paper <i>MultiTaskBench</i> accepted at <strong>COLING 2025</strong>.<br><br>
+<strong>Dec 2024 —</strong> Our paper <a href="https://aclanthology.org/2025.coling-main.606.pdf">MultiTaskBench</a> accepted at <strong>COLING 2025</strong>.<br><br>
 
 
 </div>
