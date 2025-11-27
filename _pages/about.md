@@ -13,7 +13,7 @@ I am a first-year Ph.D. Computer Science student at [University of Illinois Chic
 
 I completed my undergrad in Computer Science at **LUMS**, where I had the good fortune of being advised by [Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Sazzadur Rahaman](https://sazzadur.com/), [Yasir Zaki](https://yasirzaki.net/), and [Fareed Zaffar](https://lums.edu.pk/lums_employee/422). My undergraduate research focused on the alignment of large language models (LLMs) for security and on auditing and improving program analysis techniques.
 
-I am broadly interested in the use of LLMs, particularly agentic browsing agents on the internet. My current research focuses on auditing these agents for security, focusing on fingerprinting and privacy risks. Through this work, I aim to help developers and researchers identify security and privacy risks and build more robust systems.
+I am broadly interested in the use of LLMs, particularly browsing agents on the internet. My current research focuses on auditing these agents for security, focusing on fingerprinting and privacy risks. Through this work, I aim to help developers and researchers identify security and privacy risks and build more robust systems.
 
 ## Publications  
 
