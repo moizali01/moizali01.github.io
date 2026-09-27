@@ -20,7 +20,7 @@ I am broadly interested in the use of LLMs, particularly browsing agents on the 
 1. **AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**  
 by **Moiz Ali**\*, Nafis Karim\*, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Polakis  
 IEEE Symposium on Security and Privacy (**S&P 2027**)  
-\* Equal contribution. Paper coming soon.  
+Paper coming soon.  
 
 2. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
 by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
@@ -29,9 +29,10 @@ In Proceedings of the 30th International Conference on Computational Linguistics
 
 3. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
 by Essa Jan\*, **Moiz Ali**\*, Saram Hassan, Fareed Zaffar, Yasir Zaki  
-EMNLP Findings, 2025  
+Findings of the Association for Computational Linguistics (**EMNLP 2025**)
 [**Paper**](https://aclanthology.org/2025.findings-emnlp.589/)
-\* Equal contribution
+
+<small>\* Equal contribution</small>
 
 ## News
 
