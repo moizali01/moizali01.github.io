@@ -28,10 +28,10 @@ In Proceedings of the 30th International Conference on Computational Linguistics
 [**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
 
 3. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
-by Essa Jan, **Moiz Ali**, Saram Hassan, Fareed Zaffar, Yasir Zaki  
+by Essa Jan\*, **Moiz Ali**\*, Saram Hassan, Fareed Zaffar, Yasir Zaki  
 EMNLP Findings, 2025  
 [**Paper**](https://aclanthology.org/2025.findings-emnlp.589/)
-
+\* Equal contribution
 
 ## News
 
