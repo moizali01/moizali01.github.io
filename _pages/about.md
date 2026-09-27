@@ -9,7 +9,7 @@ redirect_from:
 
 ## About
 
-I am a first-year Ph.D. Computer Science student at [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by [Jason Polakis](https://www.cs.uic.edu/~polakis/).
+I am a second-year Ph.D. Computer Science student at [University of Illinois Chicago (UIC)](https://www.uic.edu/), advised by [Jason Polakis](https://www.cs.uic.edu/~polakis/).
 
 I completed my undergrad in Computer Science at **LUMS**, where I had the good fortune of being advised by [Ashish Gehani](https://www.csl.sri.com/people/gehani/), [Sazzadur Rahaman](https://sazzadur.com/), [Yasir Zaki](https://yasirzaki.net/), and [Fareed Zaffar](https://lums.edu.pk/lums_employee/422). My undergraduate research focused on the alignment of large language models (LLMs) for security and on auditing and improving program analysis techniques.
 
@@ -17,12 +17,17 @@ I am broadly interested in the use of LLMs, particularly browsing agents on the 
 
 ## Publications  
 
-1. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
+1. **AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**  
+by **Moiz Ali**\*, Nafis Karim\*, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Polakis  
+IEEE Symposium on Security and Privacy (**S&P 2027**)  
+\* Equal contribution. Paper coming soon.  
+
+2. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
 by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
 In Proceedings of the 30th International Conference on Computational Linguistics (**COLING 2025**)  
 [**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
 
-2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
+3. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
 by Essa Jan, **Moiz Ali**, Saram Hassan, Fareed Zaffar, Yasir Zaki  
 EMNLP Findings, 2025  
 [**Paper**](https://aclanthology.org/2025.findings-emnlp.589/)
@@ -32,6 +37,7 @@ EMNLP Findings, 2025
 
 <div style="background-color:#f9f9f9; border-left:4px solid #4b9cd3; padding:10px 15px; border-radius:6px;">
 
+<strong>Sep 2026 —</strong> Our paper <strong>AgentShield</strong> accepted at <strong>IEEE S&P 2027</strong>.<br><br>
 <strong>Aug 2025 —</strong> Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.<br><br>
 <strong>Aug 2025 —</strong> Our paper <a href="https://aclanthology.org/2025.findings-emnlp.589/">Data Doping or True Intelligence</a> accepted at <strong>EMNLP Findings 2025</strong>.<br><br>
 <strong>May 2025 —</strong> Completed undergraduate degree in Computer Science at <strong>LUMS</strong>.<br><br>
