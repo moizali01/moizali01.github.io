@@ -7,6 +7,11 @@ html {
   min-height: 100%;
 }
 
+/* keep anchor targets from hiding under the fixed masthead */
+[id] {
+  scroll-margin-top: $masthead-height + 10px;
+}
+
 body {
   margin: 0;
   padding: $masthead-height 0 0;

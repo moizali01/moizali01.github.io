@@ -15,37 +15,36 @@ I completed my undergrad in Computer Science at **LUMS**, where I had the good f
 
 I am broadly interested in the use of LLMs, particularly browsing agents on the internet. My current research focuses on auditing these agents for security, focusing on fingerprinting and privacy risks. Through this work, I aim to help developers and researchers identify security and privacy risks and build more robust systems.
 
-## Publications  
+## Publications
 
 1. **AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**  
-by **Moiz Ali**\*, Nafis Karim\*, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Polakis  
-IEEE Symposium on Security and Privacy (**S&P 2027**)  
-Paper coming soon.  
+   **Moiz Ali**\*, Nafis Karim\*, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Polakis  
+   *IEEE Symposium on Security and Privacy (S&P), 2027*  
+   <span class="pub-note">Paper coming soon</span>
 
-2. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
-by Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
-In Proceedings of the 30th International Conference on Computational Linguistics (**COLING 2025**)  
-[**Paper**](https://aclanthology.org/2025.coling-main.606.pdf) | [**Code**](https://github.com/comnetsAD/LLMSafetyGuardrails)  
+2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
+   Essa Jan\*, **Moiz Ali**\*, Saram Hassan, Fareed Zaffar, Yasir Zaki  
+   *Findings of the Association for Computational Linguistics: EMNLP, 2025*  
+   [Paper](https://aclanthology.org/2025.findings-emnlp.589/){: .pub-link}
 
-3. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
-by Essa Jan\*, **Moiz Ali**\*, Saram Hassan, Fareed Zaffar, Yasir Zaki  
-Findings of the Association for Computational Linguistics (**EMNLP 2025**)
-[**Paper**](https://aclanthology.org/2025.findings-emnlp.589/)
+3. **MultitaskBench: Unveiling and Mitigating Safety Gaps in LLM Fine-tuning**  
+   Essa Jan, Nouar AlDahoul, **Moiz Ali**, Faizan Ahmad, Fareed Zaffar, Yasir Zaki  
+   *International Conference on Computational Linguistics (COLING), 2025*  
+   [Paper](https://aclanthology.org/2025.coling-main.606.pdf){: .pub-link} &middot; [Code](https://github.com/comnetsAD/LLMSafetyGuardrails){: .pub-link}
+{: .pub-list}
 
-<small>\* Equal contribution</small>
+<p class="footnote-note">* Equal contribution</p>
 
 ## News
 
-<div style="background-color:#f9f9f9; border-left:4px solid #4b9cd3; padding:10px 15px; border-radius:6px;">
+<ul class="news">
+  <li><span class="news__date">Sep 2026</span><span><a href="#publications">AgentShield</a> accepted at IEEE S&amp;P 2027.</span></li>
+  <li><span class="news__date">Aug 2025</span><span>Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.</span></li>
+  <li><span class="news__date">Aug 2025</span><span><a href="https://aclanthology.org/2025.findings-emnlp.589/">Data Doping or True Intelligence?</a> accepted at EMNLP Findings 2025.</span></li>
+  <li><span class="news__date">May 2025</span><span>Completed my undergraduate degree in Computer Science at LUMS.</span></li>
+  <li><span class="news__date">Dec 2024</span><span><a href="https://aclanthology.org/2025.coling-main.606.pdf">MultitaskBench</a> accepted at COLING 2025.</span></li>
+</ul>
 
-<strong>Sep 2026 —</strong> Our paper <strong>AgentShield</strong> accepted at <strong>IEEE S&P 2027</strong>.<br><br>
-<strong>Aug 2025 —</strong> Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.<br><br>
-<strong>Aug 2025 —</strong> Our paper <a href="https://aclanthology.org/2025.findings-emnlp.589/">Data Doping or True Intelligence</a> accepted at <strong>EMNLP Findings 2025</strong>.<br><br>
-<strong>May 2025 —</strong> Completed undergraduate degree in Computer Science at <strong>LUMS</strong>.<br><br>
-<strong>Dec 2024 —</strong> Our paper <a href="https://aclanthology.org/2025.coling-main.606.pdf">MultiTaskBench</a> accepted at <strong>COLING 2025</strong>.<br><br>
-
-
-</div>
 
 
 <!-- ## Teaching

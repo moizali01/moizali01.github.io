@@ -1,0 +1,213 @@
+/* ==========================================================================
+   CUSTOM — clean, minimal overrides on top of the theme
+   ========================================================================== */
+
+$muted-color: #6b6b6b;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* no entrance animations */
+.masthead,
+#main,
+.page__footer,
+.page__hero {
+  -webkit-animation: none;
+          animation: none;
+}
+
+/*
+   Masthead
+   ========================================================================== */
+
+.masthead {
+  background: rgba(#fff, 0.92);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+          backdrop-filter: saturate(180%) blur(8px);
+}
+
+.greedy-nav {
+  background: transparent;
+
+  .visible-links {
+    li:first-child a {
+      color: $text-color;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+    }
+
+    /* thin underline instead of the thick gray bar */
+    a:before {
+      height: 1px;
+      background: $text-color;
+    }
+  }
+
+  button {
+    background-color: transparent;
+
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+      background: $text-color;
+    }
+
+    &.close .navicon {
+      background: transparent;
+    }
+  }
+}
+
+/*
+   Sidebar
+   ========================================================================== */
+
+.author__avatar img {
+  padding: 0;
+  border: 0;
+}
+
+.sidebar .author__name {
+  font-size: $type-size-4;
+  font-weight: 600;
+}
+
+.sidebar .author__bio {
+  color: $muted-color;
+}
+
+.author__urls {
+  a,
+  li {
+    color: $muted-color;
+  }
+
+  a:hover {
+    color: $link-color;
+    text-decoration: none;
+  }
+}
+
+/*
+   Page content
+   ========================================================================== */
+
+.page__content {
+  line-height: 1.65;
+
+  h2 {
+    margin-top: 2.5em;
+    padding-bottom: 0.35em;
+    font-size: 1.3em;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  > h2:first-child {
+    margin-top: 1em;
+
+    @include breakpoint($large) {
+      margin-top: 0;
+    }
+  }
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* publications */
+.pub-list {
+  padding-left: 1.25em;
+
+  li {
+    margin-bottom: 1.4em;
+    padding-left: 0.25em;
+    color: $muted-color;
+    line-height: 1.55;
+  }
+
+  li::marker {
+    color: $muted-color;
+  }
+
+  /* paper title */
+  li strong:first-child,
+  li > p > strong:first-child {
+    color: $text-color;
+    font-weight: 600;
+  }
+
+  /* highlighted own name */
+  strong {
+    color: $text-color;
+  }
+
+  em {
+    font-style: italic;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+.pub-link {
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.pub-note {
+  font-size: 0.9em;
+}
+
+.page__content .footnote-note {
+  margin-top: -0.5em;
+  color: $muted-color;
+  font-size: $type-size-6;
+}
+
+/* news */
+.news {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    display: flex;
+    gap: 1.25em;
+    margin-bottom: 0.75em;
+    line-height: 1.55;
+  }
+}
+
+.news__date {
+  flex: 0 0 5.5em;
+  color: $muted-color;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/*
+   Footer
+   ========================================================================== */
+
+.page__footer {
+  background-color: transparent;
+  border-top: 1px solid $border-color;
+  color: $muted-color;
+
+  footer {
+    padding-top: 0.5em;
+  }
+}
+
+.page__footer-copyright {
+  font-size: $type-size-6;
+}
