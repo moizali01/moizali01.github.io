@@ -17,10 +17,10 @@ I am broadly interested in the use of LLMs, particularly browsing agents on the 
 
 ## Publications
 
-1. **AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers**  
+1. **[AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers](/publications/agentshield/)**  
    **Moiz Ali**\*, Nafis Karim\*, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Polakis  
    *IEEE Symposium on Security and Privacy (S&P), 2027*  
-   <span class="pub-note">Paper coming soon</span>
+   [Abstract](/publications/agentshield/){: .pub-link} &middot; <span class="pub-note">Paper coming soon</span>
 
 2. **Data Doping or True Intelligence? Evaluating the Transferability of Injected Knowledge in LLMs**  
    Essa Jan\*, **Moiz Ali**\*, Saram Hassan, Fareed Zaffar, Yasir Zaki  
@@ -38,7 +38,7 @@ I am broadly interested in the use of LLMs, particularly browsing agents on the 
 ## News
 
 <ul class="news">
-  <li><span class="news__date">Sep 2026</span><span><a href="#publications">AgentShield</a> accepted at IEEE S&amp;P 2027.</span></li>
+  <li><span class="news__date">Sep 2026</span><span><a href="/publications/agentshield/">AgentShield</a> accepted at IEEE S&amp;P 2027.</span></li>
   <li><span class="news__date">Aug 2025</span><span>Started my Ph.D. in Computer Science at <a href="https://www.uic.edu/">UIC</a>.</span></li>
   <li><span class="news__date">Aug 2025</span><span><a href="https://aclanthology.org/2025.findings-emnlp.589/">Data Doping or True Intelligence?</a> accepted at EMNLP Findings 2025.</span></li>
   <li><span class="news__date">May 2025</span><span>Completed my undergraduate degree in Computer Science at LUMS.</span></li>
